@@ -1,4 +1,4 @@
 # aprendendo a usar o unity
-*pasta "teste" é os arquivos do projeto
 
-*pasta "ManoelGomes" é o jogo de teste
+#*pasta "ManoelGomes" é o jogo de teste 1.0
+#*pasta "Manoel" é o jogo de teste 1.5
